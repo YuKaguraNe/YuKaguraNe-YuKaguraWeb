@@ -16,18 +16,20 @@ header,
 }
 
 .top-nav-collapse ,.page-footer{
-  background-color: #99bfdf !important;
+  background-color: #d869a0 !important;
 }
 
 .navbar:not(.top-nav-collapse) {
   background: transparent !important;
 }
-
-
+.img-fluid{
+  float: left;
+  
+}
 
 
 #intro {
-    background: url("/YuKaguraNe-YuKaguraWeb/css/1.jpeg")no-repeat center center fixed;
+    background: url("/MDB-Pro-4.12/img/bg1.jpg")no-repeat center center fixed;
     -webkit-background-size: cover; /* 针对Chrome, Safari, Edge等浏览器 */
     -moz-background-size: cover;    /* 针对Firefox浏览器 */
     -o-background-size: cover;      /* 针对Operallq */
